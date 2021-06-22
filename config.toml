@@ -1,0 +1,6 @@
+baseURL = "http://sesame.black"
+languageCode = "en-us"
+title = "Sesame Black"
+theme = "yinyang"
+[params]
+headTitle = "Sesame Black"
