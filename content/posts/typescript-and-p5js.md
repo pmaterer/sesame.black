@@ -1,7 +1,11 @@
 ---
 title: "Typescript and p5.js"
 date: 2021-06-22T11:17:02-05:00
-draft: true
+draft: false
+tags:
+- typescript
+- p5.js
+- node
 ---
 
 I've been experimenting with [p5.js](https://p5js.org/) while learning [Typescript](https://www.typescriptlang.org/). Coming from Go, the Node ecosystem feels complex, with copious config files and third-party modules. I created a [GitHub template](https://github.com/pmaterer/typescript-template), which I use to start new projects.
